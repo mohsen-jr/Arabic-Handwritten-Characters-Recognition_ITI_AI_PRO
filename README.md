@@ -1,0 +1,1 @@
+# Arabic-Handwritten-Characters-Recognition_ITI_AI_PRO
